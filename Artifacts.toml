@@ -1,11 +1,11 @@
 [[aws_c_io]]
 arch = "aarch64"
-git-tree-sha1 = "be3e8dc3846986891a42330d50a68a50d72d0fee"
+git-tree-sha1 = "f3e7f78fcbb15c3e3c00a6782e1b393c99188ba5"
 os = "macos"
 
     [[aws_c_io.download]]
-    sha256 = "b61afc006ea71888dbb57c9514bbe1c935476dc25773f3f20bb1883b6710b94c"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "da90dfbef19d0e03b410a19759d6db3fd97d50db74c4fd95b78de70df95e1ede"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.aarch64-apple-darwin.tar.gz"
 [[aws_c_io]]
 arch = "aarch64"
 git-tree-sha1 = "9e2aa2bda16ce11e00f71596ecc0f92ae599a167"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "bb36ad1bedc0a9c6cba269c14d3455b931f5612917fb58174b89b30148bb63ea"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.aarch64-linux-gnu.tar.gz"
 [[aws_c_io]]
 arch = "aarch64"
 git-tree-sha1 = "b16c138a239c06ce3f5d19c88b2cc44e0e818493"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "a8e9dc369458aeb09173b803934a902250a604370a293dd61b4229c95e5ce138"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.aarch64-linux-musl.tar.gz"
 [[aws_c_io]]
 arch = "aarch64"
 git-tree-sha1 = "772dfaddef4b2f910749684493debe79334262df"
@@ -31,7 +31,7 @@ os = "freebsd"
 
     [[aws_c_io.download]]
     sha256 = "af75276e1f618eed593575f729e6c8ddea6c826728b2adee74d7a7ee2955f458"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.aarch64-unknown-freebsd.tar.gz"
 [[aws_c_io]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -41,7 +41,7 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "b784f5e6e5bae5b8a3aef4ca7f82f3d693d4a1fa6a6d4fb2d35d407626e1c110"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.armv6l-linux-gnueabihf.tar.gz"
 [[aws_c_io]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -51,7 +51,7 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "79307c7426c9b760aaf8e256a7a1ae3fcab42953c52c157d2bd06e7bbab59f35"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.armv6l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.armv6l-linux-musleabihf.tar.gz"
 [[aws_c_io]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -61,7 +61,7 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "d951548909913df436df656484403290f48f7f213d0e26a42a14b2b53940abde"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.armv7l-linux-gnueabihf.tar.gz"
 [[aws_c_io]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -71,7 +71,7 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "78e21603b5c85bfd71267dac9b68b37313ca4466f944aafbf37fa7eed5afacb2"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.armv7l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.armv7l-linux-musleabihf.tar.gz"
 [[aws_c_io]]
 arch = "i686"
 git-tree-sha1 = "302f4804fbd64b007586df83c6773af6403231df"
@@ -80,7 +80,7 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "ad9876c79f3bcc867e4b797bedefce00aa655f6acdad3835106f0aa4e4f70eba"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.i686-linux-gnu.tar.gz"
 [[aws_c_io]]
 arch = "i686"
 git-tree-sha1 = "5d6a29c180a3139de43ee308d8d660b0cea7e7e1"
@@ -89,7 +89,7 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "69abcef95170c15168730786bafade903c05908d33554d25dd24a0c95123a26e"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.i686-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.i686-linux-musl.tar.gz"
 [[aws_c_io]]
 arch = "powerpc64le"
 git-tree-sha1 = "688de5e94acc675bc280f579dda88d73c09d16ac"
@@ -98,7 +98,7 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "d9ecdf3d07f13857dcd2657aaf7a86703528709dc5e33a3da3afecd17a0a447a"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.powerpc64le-linux-gnu.tar.gz"
 [[aws_c_io]]
 arch = "riscv64"
 git-tree-sha1 = "7ee6c07dddbb42805fa3c4d56f3fedd84c641eca"
@@ -107,15 +107,15 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "5a5d17b57d916a9df7abea2f51fe1d7580a492e0eb3e10b80cd3fef3dcae7381"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.riscv64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.riscv64-linux-gnu.tar.gz"
 [[aws_c_io]]
 arch = "x86_64"
-git-tree-sha1 = "ed6452d238edd346f02b5fc4800c93f087fe8407"
+git-tree-sha1 = "5a9297a3fde8a21829cb5225e38516aaf32d81d1"
 os = "macos"
 
     [[aws_c_io.download]]
-    sha256 = "ebcc73424bed4c0de1c60da456911e8834a10261f5b141980eae60e10c5ffee0"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "ffeb6a67b2df39a56d24286653270b40acb35e5f03925229a8d6614efac336a2"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.x86_64-apple-darwin.tar.gz"
 [[aws_c_io]]
 arch = "x86_64"
 git-tree-sha1 = "67620c61f9a00a79634e24a9cdac1bfcf8a3b50a"
@@ -124,7 +124,7 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "c3ac1c96d9f7b15e5992f215b6a38fec1d4c9a5dc87889e004bb6585eb51763a"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.x86_64-linux-gnu.tar.gz"
 [[aws_c_io]]
 arch = "x86_64"
 git-tree-sha1 = "425022ebc8fa7767dc3ad68fe15065ed209341eb"
@@ -133,7 +133,7 @@ os = "linux"
 
     [[aws_c_io.download]]
     sha256 = "09443a640994b575396ef27dd0ae6a2213a5961f1025659f820e6f80ebdd8494"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.x86_64-linux-musl.tar.gz"
 [[aws_c_io]]
 arch = "x86_64"
 git-tree-sha1 = "1c71313ab01b4b5609bd0867fa817adbb5e08da2"
@@ -141,7 +141,7 @@ os = "freebsd"
 
     [[aws_c_io.download]]
     sha256 = "007c887766fae84e6c315addf55327c4e01cb975dba618434dff61ef9ffb3fe5"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.x86_64-unknown-freebsd.tar.gz"
 [[aws_c_io]]
 arch = "x86_64"
 git-tree-sha1 = "6b13d89b06ed818de92670c51aebde19737d6205"
@@ -149,4 +149,4 @@ os = "windows"
 
     [[aws_c_io.download]]
     sha256 = "446d178ba8ad19e234635f527021b74f8f4c80822c4da96179985b07f66bd722"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.3+0/aws_c_io.v0.21.3.x86_64-w64-mingw32.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_io_jll.jl/releases/download/aws_c_io-v0.21.4+0/aws_c_io.v0.21.4.x86_64-w64-mingw32.tar.gz"

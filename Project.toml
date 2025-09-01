@@ -1,6 +1,6 @@
 name = "aws_c_io_jll"
 uuid = "13c41daa-f319-5298-b5eb-5754e0170d52"
-version = "0.21.3+0"
+version = "0.21.4+0"
 
 [deps]
 aws_c_cal_jll = "70f11efc-bab2-57f1-b0f3-22aad4e67c4b"
